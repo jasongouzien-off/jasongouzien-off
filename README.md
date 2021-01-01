@@ -33,13 +33,13 @@
 <div align=center>
     <h3 align=center>𝓕𝓸𝓵𝓵𝓸𝔀 𝓶𝓮 𝓸𝓷 𝓼𝓸𝓬𝓲𝓪𝓵 𝓶𝓮𝓭𝓲𝓪 :</h3><br>
         <a href="t.me/jasongouzien" target="_blank">
-            <img src="/icons/telegram.png" alt="telegram">
+            <img src="/icons/telegram.png" alt="telegram" width="24" heigth="24">
         </a>
         <a href="fb.me/jasongouzien.off" target="_blank">
-            <img src="/icons/facebook.png" alt="facebook">
+            <img src="/icons/facebook.png" alt="facebook" width="24" height="24">
         </a>
         <a href="instagr.am/jason.gouzien.off" target="_blank">
-            <img src="/icons/instagram.png" alt="instagram">
+            <img src="/icons/instagram.png" alt="instagram" width="24" height="24">
         </a>
 </div>
 <!-- FIN : Pied de Page -->
