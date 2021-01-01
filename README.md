@@ -1,5 +1,4 @@
 <!-- DEB : Présentation -->
-
 ---
 
 <div align=center>
@@ -28,4 +27,9 @@
 </div>
 <!-- FIN : Repos Épinglés -->
 
+<!-- DEB : Pied de Page -->
+<div align=center>
+    <p align=center>𝓕𝓸𝓵𝓵𝓸𝔀 𝓶𝓮 𝓸𝓷 𝓼𝓸𝓬𝓲𝓪𝓵 𝓶𝓮𝓭𝓲𝓪 :</p>
+</div>
+<!-- FIN : Pied de Page -->
 ---
