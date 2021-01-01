@@ -6,18 +6,17 @@
 
 <!-- DEB : Statistiques -->
 <p align=center>
-  <a href="https://github.com/jasongouzien-off/jasongouzien-off">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasongouzien-off&show_icons=true&hide_title=boolean&theme=dark">
-  </a>
+    <a href="https://github.com/jasongouzien-off/jasongouzien-off">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasongouzien-off&show_icons=true&hide_title=boolean&theme=dark">
+    </a>
 </p>
 <!-- FIN : Statistiques -->
 
 <!-- DEB : Repos Épinglés -->
-<h3 align="center">My Favorite Projects : </h3>
 <a href="https://site/utilisateur/projet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jasongouzien-off&repo=projet&show_owner=true&theme=dark">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darkreader&repo=darkreader&show_owner=true&theme=dark">
 </a>
 <a href="https://site/utilisateur/projet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jasongouzien-off&repo=projet&show_owner=true&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lulz3xploit&repo=LittleBrother&show_owner=true&theme=dark">
 </a>
 <!-- FIN : Repos Épinglés -->
