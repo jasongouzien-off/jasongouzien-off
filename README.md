@@ -14,10 +14,13 @@
 
 <!-- DEB : Repos Épinglés -->
 <h2 align=center>𝓜𝓨 𝓕𝓐𝓥𝓞𝓡𝓘𝓣𝓔 𝓟𝓡𝓞𝓙𝓔𝓒𝓣𝓢 :</h2>
-<a href="https://github.com/darkreader/darkreader">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darkreader&repo=darkreader&show_owner=true&theme=dark">
-</a>
-<a href="https://github.com/lulz3xploit/LittleBrother">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lulz3xploit&repo=LittleBrother&show_owner=true&theme=dark">
-</a>
+
+<div align=center>
+    <a href="https://github.com/darkreader/darkreader">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darkreader&repo=darkreader&show_owner=true&theme=dark">
+    </a>
+    <a href="https://github.com/lulz3xploit/LittleBrother">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lulz3xploit&repo=LittleBrother&show_owner=true&theme=dark">
+    </a>
+</div>
 <!-- FIN : Repos Épinglés -->
