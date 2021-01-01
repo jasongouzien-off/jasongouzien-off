@@ -31,7 +31,7 @@
 
 <!-- DEB : Pied de Page -->
 <div align=center>
-    <h3 align=center>𝓕𝓸𝓵𝓵𝓸𝔀 𝓶𝓮 𝓸𝓷 𝓼𝓸𝓬𝓲𝓪𝓵 𝓶𝓮𝓭𝓲𝓪 :</h3><br>
+    <h3 align=center>𝓕𝓸𝓵𝓵𝓸𝔀 𝓶𝓮 𝓸𝓷 𝓼𝓸𝓬𝓲𝓪𝓵 𝓶𝓮𝓭𝓲𝓪 :</h3>
         <a href="t.me/jasongouzien" target="_blank">
             <img src="/icons/telegram.png" alt="telegram" width="24" heigth="24">
         </a>
