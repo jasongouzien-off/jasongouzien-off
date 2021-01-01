@@ -1,4 +1,7 @@
 <!-- DEB : Présentation -->
+
+---
+
 <div align=center>
     <h1>ℍ𝕒𝕡𝕡𝕪 ℕ𝕖𝕨 𝕐𝕖𝕒𝕣 : 𝟚𝟘𝟚𝟙 :sparkler:</h1>
 </div>
@@ -24,3 +27,5 @@
     </a>
 </div>
 <!-- FIN : Repos Épinglés -->
+
+---
