@@ -42,10 +42,10 @@
     <a href="https://t.me/jasongouzien" target="_blank">
         <img src="/icons/telegram.png" alt="telegram" width="48" heigth="48">
     </a>
-    <a href="" target="_blank">
+    <a href="https://soundcloud.com/jason-gouzien" target="_blank">
         <img src="/icons/soundcloud.png" alt="soundcloud" width="48" height="48">
     </a>
-    <a href="" target="_blank">
+    <a href="https://www.youtube.com/channel/UCTiCWv_qWGW0DCW1ivNimgQ" target="_blank">
         <img src="/icons/youtube.png" alt="youtube" width="48" height"48">
     </a>
 </div>
