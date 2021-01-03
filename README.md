@@ -42,6 +42,9 @@
             <a href="https://t.me/jasongouzien" target="_blank">
             <img src="/icons/telegram.png" alt="telegram" width="48" heigth="48">
         </a>
+        <a href="" target="_blank">
+            <img src="/icons/soundcloud.png" alt="soundcloud" width="48" height="48" blur="10px">
+        </a>
 </div>
 <!-- FIN : Pied de Page -->
 
