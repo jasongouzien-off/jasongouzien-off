@@ -19,7 +19,7 @@
 <!-- DEB : Repos Épinglés -->
 <h2 align=center>𝓜𝔂 𝓹𝓮𝓻𝓼𝓸𝓷𝓪𝓵 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼 :</h2>
 
-<div align=center>
+<div align=center margin="10px">
     <a href="https://github.com/breizh-cybersec/systemd-manager" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=breizh-cybersec&repo=systemd-manager&show_owner=true&theme=dark">
     </a>
