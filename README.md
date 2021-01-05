@@ -17,7 +17,7 @@
 <!-- FIN : Statistiques -->
 
 <!-- DEB : Repos Épinglés -->
-<h2 align=center>𝓜𝓨 𝓕𝓐𝓥𝓞𝓡𝓘𝓣𝓔 𝓟𝓡𝓞𝓙𝓔𝓒𝓣𝓢 :</h2>
+<h2 align=center>𝓜𝔂 𝓹𝓮𝓻𝓼𝓸𝓷𝓪𝓵 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼 :</h2>
 
 <div align=center>
     <a href="https://github.com/darkreader/darkreader" target="_blank">
