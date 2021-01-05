@@ -15,7 +15,7 @@
     </p>
  </div>
 <!-- FIN : Statistiques -->
-
+---
 <!-- DEB : Repos Épinglés -->
 <h2 align=center>𝓜𝓨 𝓕𝓐𝓥𝓞𝓡𝓘𝓣𝓔 𝓟𝓡𝓞𝓙𝓔𝓒𝓣𝓢 :</h2>
 
@@ -29,12 +29,9 @@
     <a href="https://github.com/PrivateBin/PrivateBin" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Privatebin&repo=Privatebin&show_owner=true&theme=dark">
     </a>
-    <a href="https://github.com/prasathmani/tinyfilemanager" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?usename=prasathmani&repo=tinyfilemanager&show_owner=true&theme=dark">
-    </a>
 </div>
 <!-- FIN : Repos Épinglés -->
-
+---
 <!-- DEB : Pied de Page -->
 <h3 align=center>𝓕𝓸𝓵𝓵𝓸𝔀 𝓶𝓮 𝓸𝓷 𝓼𝓸𝓬𝓲𝓪𝓵 𝓶𝓮𝓭𝓲𝓪 :</h3>
 
