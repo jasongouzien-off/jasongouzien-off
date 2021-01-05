@@ -26,6 +26,9 @@
     <a href="https://github.com/lulz3xploit/LittleBrother" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lulz3xploit&repo=LittleBrother&show_owner=true&theme=dark">
     </a>
+    <a href="https://github.com/PrivateBin/PrivateBin" target="_blank">
+        <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Privatebin&repo=Privatebin&show_owner=true&theme=dark">
+    </a>
 </div>
 <!-- FIN : Repos Épinglés -->
 
