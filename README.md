@@ -20,17 +20,17 @@
 <h2 align=center>𝓜𝔂 𝓹𝓮𝓻𝓼𝓸𝓷𝓪𝓵 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼 :</h2>
 
 <div align=center>
-    <a href="https://github.com/darkreader/darkreader" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darkreader&repo=darkreader&show_owner=true&theme=dark">
+    <a href="https://github.com/breizh-cybersec/systemd-manager" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=breizh-cybersec&repo=systemd-manager&show_owner=true&theme=dark">
     </a>
-    <a href="https://github.com/lulz3xploit/LittleBrother" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lulz3xploit&repo=LittleBrother&show_owner=true&theme=dark">
+    <a href="https://github.com/breizh-cybersec/softwares-manager" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=breizh-cybersec&repo=softwares-manager&show_owner=true&theme=dark">
     </a>
-    <a href="https://github.com/PrivateBin/PrivateBin" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Privatebin&repo=Privatebin&show_owner=true&theme=dark">
+    <a href="https://github.com/breizh-cybersec/pentesting-tools" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=breizh-cybersec&repo=pentesting-tools&show_owner=true&theme=dark">
     </a>
-    <a href="https://github.com/VSCodium/vscodium" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VSCodium&repo=vscodium&show_owner=true&theme=dark"
+    <a href="https://github.com/breizh-cybersec/sysadmin-tools" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=breizh-cybersec&repo=sysadmin-tools&show_owner=true&theme=dark"
     </a>
 </div>
 <!-- FIN : Repos Épinglés -->
