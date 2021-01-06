@@ -36,14 +36,15 @@
 <!-- FIN : Repos Épinglés -->
 
 <!-- DEB : Pied de Page -->
-<h3 align=center>𝓕𝓸𝓵𝓵𝓸𝔀 𝓶𝓮 𝓸𝓷 𝓼𝓸𝓬𝓲𝓪𝓵 𝓶𝓮𝓭𝓲𝓪 :</h3>
-
 <div align=center>
+     <a href="https://instagr.am/jason.gouzien.off" target="_blank">
+        <img src="/icons/instagram.png" alt="instagram" width="48" height="48">
+    </a>
     <a href="https://fb.me/jasongouzien.off" target="_blank">
         <img src="/icons/facebook.png" alt="facebook" width="48" height="48">
     </a>
-    <a href="https://instagr.am/jason.gouzien.off" target="_blank">
-        <img src="/icons/instagram.png" alt="instagram" width="48" height="48">
+    <a href="m.me/jasongouzien.off" target="_blank">
+        <img src="/icons/messenger.png" alt="messenger" width="48" height="48">
     </a>
     <a href="https://t.me/jasongouzien" target="_blank">
         <img src="/icons/telegram.png" alt="telegram" width="48" heigth="48">
