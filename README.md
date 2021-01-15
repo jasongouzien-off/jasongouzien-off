@@ -44,9 +44,6 @@
     <a href="https://fb.me/jasongouzien.off" target="_blank">
         <img src="/icons/facebook.png" alt="facebook" width="48" height="48">
     </a>
-    <a href="m.me/jasongouzien.off" target="_blank">
-        <img src="/icons/messenger.png" alt="messenger" width="48" height="48">
-    </a>
     <a href="https://t.me/jasongouzien" target="_blank">
         <img src="/icons/telegram.png" alt="telegram" width="48" heigth="48">
     </a>
