@@ -6,16 +6,6 @@
 
 <!-- FIN : Présentation -->
 
-<!-- DEB : Statistiques -->
-<div align=center>
-    <p align=center>
-        <a href="https://github.com/jasongouzien-off/jasongouzien-off">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasongouzien-off&show_icons=true&hide_title=boolean&theme=dark">
-        </a>
-    </p>
- </div>
-<!-- FIN : Statistiques -->
-
 <!-- DEB : Repos Épinglés -->
 <h2 align=center>𝓜𝔂 𝓹𝓮𝓻𝓼𝓸𝓷𝓪𝓵 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼 :</h2>
 
