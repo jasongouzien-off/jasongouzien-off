@@ -1,3 +1,5 @@
+▪ Passionné par l'informatique depuis mes 10 ans.
+▪ Passionné par la musique depuis l'age de 14 ans.
 <!-- DEB : Pied de Page -->
 <br>
 <div align=center>
